@@ -12,15 +12,14 @@ public class MapReduce {
 
         final Map<K, Collection<V>> shuffled = MapReduce.shuffle(mapped);
 
-
         return shuffled.entrySet()
                 .stream()
                 .map(entry -> new AbstractMap.SimpleEntry<>(entry.getKey(), reducer.reduce(entry.getValue())))
+                .collect(Collectors.toList());
     }
 
     private static <K, V> Map<K, Collection<V>> shuffle(Collection<Collection<Map.Entry<K, V>>> mapped) {
         final Map<K, Collection<V>> shuffleMap = new ConcurrentHashMap<>();
-
 
         return shuffleMap;
     }
