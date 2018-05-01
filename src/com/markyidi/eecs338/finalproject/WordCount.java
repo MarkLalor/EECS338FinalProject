@@ -10,7 +10,6 @@ import java.nio.file.Path;
 import java.util.*;
 import java.util.regex.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class WordCount {
     public static Pattern tokenPattern = Pattern.compile("\\b\\w*[A-z,-][A-z,-]+\\w*\\b");
@@ -34,7 +33,7 @@ public class WordCount {
             String s = new String(Files.readAllBytes(item), Charset.forName("UTF-8"));
             Matcher m = tokenPattern.matcher(s);
             while (m.find()) {
-                counts.add(new AbstractMap.SimpleEntry<>(m.toMatchResult().group(), 1));
+                counts.add(new AbstractMap.SimpleEntry<>(m.toMatchResult().group().toLowerCase(), 1));
             }
             return counts;
         } catch (IOException e) {
@@ -54,7 +53,7 @@ public class WordCount {
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFn))) {
             for (Map.Entry<String, Integer> entry : sortedList) {
-                writer.write(String.format("%s: %d\n", entry.getKey(), entry.getValue()));
+                writer.write(String.format("%s,%d\n", entry.getKey(), entry.getValue()));
             }
         } catch (IOException e) {
             e.printStackTrace();
