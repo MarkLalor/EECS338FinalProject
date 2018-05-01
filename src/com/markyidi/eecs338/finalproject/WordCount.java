@@ -15,6 +15,11 @@ import java.util.stream.Stream;
 public class WordCount {
     public static Pattern tokenPattern = Pattern.compile("\\b\\w*[A-z,-][A-z,-]+\\w*\\b");
 
+    /**
+     * Counts the number of times each word appears in a corpus of documents using mapreduce. Distributes work by
+     * assigning each file to a separate map worker (thread in our implementation)
+     * @param args First argument is the name of folder containing documents, second argument is the name of the output file
+     */
     public static void main(String[] args) {
         String dataDirectory = args[0];
         String outputFn = args[1];
@@ -28,10 +33,15 @@ public class WordCount {
         writeResults(results, outputFn);
     }
 
+    /**
+     * Mapper in our word count MR job. Produces an intermediate k-v pair for each word in a single file
+     * @param item Path object to a document
+     * @return List of k-v pairs in this document. Can contain duplicates if words appear more than once.
+     */
     public static Collection<Map.Entry<String, Integer>> docWordCount(Path item) {
         List<Map.Entry<String, Integer>> counts = new LinkedList<>();
         try {
-            String s = new String(Files.readAllBytes(item), Charset.forName("UTF-8"));
+            String s = new String(Files.readAllBytes(item), Charset.forName("UTF-8")).toLowerCase();
             Matcher m = tokenPattern.matcher(s);
             while (m.find()) {
                 counts.add(new AbstractMap.SimpleEntry<>(m.toMatchResult().group(), 1));
@@ -43,6 +53,11 @@ public class WordCount {
         }
     }
 
+    /**
+     * Reducer in our word count MR job. Sums up counts for a given word w
+     * @param shuffled A collection of 1s for each time w appears
+     * @return Total count of w in corpus
+     */
     public static Integer reduce(Collection<Integer> shuffled) {
         return shuffled.stream().mapToInt(Integer::intValue).sum();
     }
