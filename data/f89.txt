@@ -1,0 +1,22 @@
+OBJECTIVE
+To determine whether the G-to-A substitution at nucleotide 209 (G209A) mutation in the alpha-synuclein gene is responsible for familial Parkinson disease (PD) in the US population.
+
+
+DESIGN
+Polymerase chain reaction-based DNA analysis of consecutive patients with PD and family history of PD.
+
+
+SETTING
+A university-affiliated movement disorder clinic and a Veterans Affairs clinical research laboratory.
+
+
+PATIENTS
+Forty-four patients with PD and family history of PD and 29 patients with sporadic PD, all with no known Greek and/or Italian background.
+
+
+RESULTS
+None of the DNA samples showed the G209A mutation.
+
+
+CONCLUSION
+The G209A mutation is rare in US patients with familial PD.

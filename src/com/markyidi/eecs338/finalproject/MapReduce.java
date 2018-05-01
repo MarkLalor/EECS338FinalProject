@@ -22,7 +22,7 @@ public class MapReduce {
     }
 
     private static <K, V> void addToMultimap(Map<K, Collection<V>> multimap, Map.Entry<K, V> entry) {
-        if (multimap.containsKey(entry.getKey())) {
+        if (!multimap.containsKey(entry.getKey())) {
             multimap.put(entry.getKey(), new LinkedList<>());
         }
 

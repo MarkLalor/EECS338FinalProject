@@ -1,0 +1,18 @@
+CONTEXT
+Alzheimer disease (AD) and Parkinson disease (PD) are associated with neuronal degeneration in major subcortical nuclei, but few studies have examined the neuronal degeneration in these nuclei concurrently.
+
+
+OBJECTIVE
+To identify clinical and pathological correlates of neuronal loss in the nucleus basalis (NB), locus coeruleus (LC), and substantia nigra pars compacta (SN) in AD and PD.
+
+
+DESIGN
+The study sample comprised 86 cases with pathologically confirmed AD, 19 cases with PD, and 13 healthy elderly control subjects. The number of nucleolated neurons was counted in representative sections of the NB, LC, and SN. Effect sizes (ES) were computed to determine the standardized difference in cell counts relative to healthy controls.
+
+
+RESULTS
+Cases of AD showed the greatest neuronal loss in the LC (ES = 3.16) followed by the NB (ES = 1.10), but variable loss in the SN (ES = 0.16). Cases of PD also showed the greatest neuronal loss in the LC (ES = 6.47), followed by the SN (ES = 2.58) and the NB (ES = 0.85). Significant correlations were found between the number of neurons in the NB and LC in PD (r = 0.54, P<.05), as well as AD (r = 0.24, P<.05). The duration of illness correlated with greater neuronal loss in the LC and NB in AD, and greater neuronal loss in the SN in PD.
+
+
+CONCLUSIONS
+For both AD and PD the greatest neuronal loss was found in the LC. In AD, neuronal loss was most severe and best correlated with the duration of illness in the LC, rather than in NB as traditionally expected. Correlations between neuronal loss in the LC and NB (but not SN) in both PD and AD suggest that the former 2 nuclei may share common pathogenetic susceptibilities. Given the prominent loss of neurons in the LC, detection and treatment of noradrenergic deficiencies warrant attention in both AD and PD.

@@ -1,0 +1,14 @@
+BACKGROUND AND PURPOSE
+Diffusion tensor imaging (DTI) offers a unique window on the connectivity changes, extending beyond the basal ganglia, which accompany the cognitive symptoms of Parkinson disease (PD). The primary purpose of this study was to assess the microstructural damage to cerebral white matter occurring in idiopathic PD.
+
+
+MATERIALS AND METHODS
+Our sample included patients with PD without dementia (n = 10; Hoehn and Yahr stages I and II; Unified Parkinson Disease Rating Scale, 20.5 +/- 8.3; and Mini-Mental State Examination, 28.3 +/- 1.5) and age-matched healthy control subjects (n = 10). DTI was performed on a 1.5T scanner, and mean diffusivity (MD) and fractional anisotropy (FA) maps were obtained. Regions of interest (ROIs) were drawn on the major fiber bundles as well as on gray matter nuclei.
+
+
+RESULTS
+In patients, the MD was increased at borderline significance in the substantia nigra but was unaltered in the thalamus, globus pallidus, putamen, and in the head of the caudate nucleus. The FA and MD were unaltered in the corticospinal tract in the midbrain and at the level of the internal capsule, and in the splenium of the corpus callosum. By contrast, the MD was increased and the FA was decreased in the genu of the corpus callosum and in the superior longitudinal fasciculus; in the cingulum, only the MD was altered. The observed changes were not significantly lateralized.
+
+
+CONCLUSIONS
+Widespread microstructural damage to frontal and parietal white matter occurs already in the early stages of PD.

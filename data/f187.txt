@@ -1,0 +1,14 @@
+INTRODUCTION
+The reproducibility of tractography is important to determine its sensitivity to pathological abnormalities. The reproducibility of tract morphology has not yet been systematically studied and the recently developed tractography contrast Tract Density Imaging (TDI) has not yet been assessed at the tract specific level.
+
+
+MATERIALS AND METHODS
+Diffusion tensor imaging (DTI) and probabilistic constrained spherical deconvolution (CSD) tractography are performed twice in 9 healthy subjects. Tractography is based on common space seed and target regions and performed for several major white matter tracts. Tractograms are converted to tract segmentations and inter-session reproducibility of tract morphology is assessed using Dice similarity coefficient (DSC). The coefficient of variation (COV) and intraclass correlation coefficient (ICC) are calculated of the following tract metrics: fractional anisotropy (FA), apparent diffusion coefficient (ADC), volume, and TDI. Analyses are performed both for proximal (deep white matter) and extended (including subcortical white matter) tract segmentations.
+
+
+RESULTS
+Proximal DSC values were 0.70-0.92. DSC values were 5-10% lower in extended compared to proximal segmentations. COV/ICC values of FA, ADC, volume and TDI were 1-4%/0.65-0.94, 2-4%/0.62-0.94, 3-22%/0.53-0.96 and 8-31%/0.48-0.70, respectively, with the lower COV and higher ICC values found in the proximal segmentations.
+
+
+CONCLUSION
+For all investigated metrics, reproducibility depended on the segmented tract. FA and ADC had relatively low COV and relatively high ICC, indicating clinical potential. Volume had higher COV but its moderate to high ICC values in most tracts still suggest subject-differentiating power. Tract TDI had high COV and relatively low ICC, which reflects unfavorable reproducibility.

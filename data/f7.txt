@@ -1,0 +1,18 @@
+BACKGROUND
+Neuronal iron accumulation is thought to be relevant to the pathogenesis of Parkinson's disease (PD), although the mechanism remains elusive. We hypothesized that neuronal iron uptake may be stimulated by functional mitochondrial iron deficiency.
+
+
+OBJECTIVE
+To determine firstly whether the mitochondrial toxin, 1-methyl-4-phenylpyridinium iodide (MPP(+)), results in upregulation of iron-import proteins and transporters of iron into the mitochondria, and secondly whether similar changes in expression are induced by toxins with different mechanisms of action.
+
+
+METHODS
+We used quantitative PCR and Western blotting to investigate expression of the iron importers, divalent metal transporter, transferrin receptor 1 and 2 (TfR1 and TfR2) and mitoferrin-2 and the iron exporter ferroportin in differentiated SH-SY5Y cells exposed to three different toxins relevant to PD, MPP(+), paraquat (a free radical generator) and lactacystin (an inhibitor of the ubiquitin-proteasome system (UPS)).
+
+
+RESULTS
+MPP(+) resulted in increased mRNA and protein levels of genes involved in cellular iron import and transport into the mitochondria. Similar changes occurred following exposure to paraquat, another inducer of oxidative stress. Lactacystin also resulted in increased TfR1 mRNA levels, although the other changes were not found.
+
+
+CONCLUSION
+Our results support the hypothesis of a functional mitochondrial iron deficit driving neuronal iron uptake but also suggest that differences exist in neuronal iron handling induced by different toxins.

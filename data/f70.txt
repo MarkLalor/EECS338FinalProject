@@ -1,0 +1,14 @@
+BACKGROUND AND PURPOSE
+Although the first mutation associated with Parkinson's disease (PD) was identified several years ago in the alpha-synuclein (SNCA) gene in families of Greek and Italian ancestry, a more systematic study of this and other known PD mutations has not been performed in the Greek population.
+
+
+METHODS
+A genetic analysis in 111 familial or sporadic with early-onset (≤50 years, EO) PD patients was performed for the presence of the A53T SNCA mutation. In separate subgroups of these patients, further mutations in the SNCA, LRRK2, Parkin, PINK1 and DJ-1 genes were searched for. Additionally, a subgroup of familial cases was analysed for mutations in the glucocerebrosidase (GBA) gene.
+
+
+RESULTS
+In total, five patients (4.5% of our whole population) were identified with the A53T SNCA mutation, two with a heterozygote dosage mutation and one with a heterozygote point mutation in the Parkin gene, and seven patients (10.3% of our familial cohort) with GBA gene mutations.
+
+
+CONCLUSIONS
+The A53T mutation in the SNCA gene, although uncommon, does represent a cause of PD in the Greek population, especially of familial EOPD with autosomal dominant inheritance. GBA mutations in the familial cohort tested here were as common as in a cohort of sporadic cases previously examined from the same centres. For the remainder of the genes, genetic defects that could definitively account for the disease were not identified. These results suggest that further Mendelian traits that lead to PD in the Greek population remain to be identified.

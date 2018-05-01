@@ -1,0 +1,14 @@
+BACKGROUND
+In this study, we investigated the structural connectivity profile of patients with scans without evidence of dopaminergic deficit (SWEDD) compared with normal controls (NC) and patients with Parkinson's disease (PD). An accurate understanding of SWEDD is important so that appropriate therapeutic options can be presented to patients.
+
+
+METHODS
+Diffusion magnetic resonance imaging of NC (n = 40), SWEDD (n = 40) and PD patients (n = 40) was obtained from a research database. Tractography, the process of obtaining fiber information was performed. Connectivity analysis was performed on 16 connections in the cortico-basal ganglia-thalamo-cortical circuit. Group-wise differences among NC, PD and SWEDD patients were quantified in terms of structural connectivity based on fiber density. Then, we investigated correlations with the clinical score using the Movement Disorder Society-Sponsored Unified Parkinson's Disease Rating Scale (MDS-UPDRS). A support vector machine classifier and leave-one-out cross-validation were applied to separate the NC, SWEDD and PD groups.
+
+
+RESULTS
+Pallidum-putamen and sensorimotor cortex-putamen connections showed significant group-wise differences among NC, PD and SWEDD patients and correlated with the MDS-UPDRS score.
+
+
+CONCLUSIONS
+Pallidum-putamen and sensorimotor cortex-putamen connections might form a structural connectivity profile unique to SWEDD and could be a potential imaging biomarker for future movement disorder research.

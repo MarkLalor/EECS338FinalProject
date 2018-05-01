@@ -1,0 +1,14 @@
+BACKGROUND
+Metabolomics is a well-established rapidly developing research field involving quantitative and qualitative metabolite assessment within biological systems. Recent improvements in metabolomics technologies reveal the unequivocal value of metabolomics tools in natural products discovery, gene-function analysis, systems biology and diagnostic platforms.
+
+
+SCOPE OF REVIEW
+We review here some of the prominent metabolomics methodologies employed in data acquisition and analysis of natural products and disease-related biomarkers.
+
+
+MAJOR CONCLUSIONS
+This review demonstrates that metabolomics represents a highly adaptable technology with diverse applications ranging from environmental toxicology to disease diagnosis. Metabolomic analysis is shown to provide a unique snapshot of the functional genetic status of an organism by examining its biochemical profile, with relevance toward resolving phylogenetic associations involving horizontal gene transfer and distinguishing subgroups of genera possessing high genetic homology, as well as an increasing role in both elucidating biosynthetic transformations of natural products and detecting preclinical biomarkers of numerous disease states.
+
+
+GENERAL SIGNIFICANCE
+This review expands the interest in multiplatform combinatorial metabolomic analysis. The applications reviewed range from phylogenetic assignment, biosynthetic transformations of natural products, and the detection of preclinical biomarkers.

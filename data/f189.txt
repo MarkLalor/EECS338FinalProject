@@ -1,0 +1,14 @@
+BACKGROUND AND PURPOSE
+Postmortem studies of advanced PD have revealed disease-related pathology in the thalamus with an apparent predilection for specific thalamic nuclei. In the present study, we used DTI to investigate in vivo the microstructural integrity of 6 thalamic regions in de novo patients with PD relative to healthy controls.
+
+
+MATERIALS AND METHODS
+Forty subjects (20 with early stage untreated PD and 20 age- and sex-matched controls) were studied with a high-resolution DTI protocol at 3T to investigate the integrity of thalamic nuclei projection fibers. Two blinded, independent raters drew ROIs in the following 6 thalamic regions: AN, VA, VL, DM, VPL/VPM, and PU. FA values were then calculated from the projection fibers in each region.
+
+
+RESULTS
+FA values were reduced significantly in the fibers projecting from the AN, VA, and DM, but not the VPL/VPM and PU, in the PD group compared with the control group. In addition, there was a reduction in FA values that approached significance in the VL of patients with PD. These findings were consistent across both raters.
+
+
+CONCLUSIONS
+The present study provides preliminary in vivo evidence of thalamic projection fiber degeneration in de novo PD and sheds light on the extent of disrupted thalamic circuitry as a result of the disease itself.

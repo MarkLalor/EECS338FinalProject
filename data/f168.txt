@@ -1,0 +1,14 @@
+BACKGROUND
+In the midbrain of patients with Parkinson disease (PD), there is a selective loss of dopaminergic neurons in the ventrolateral and caudal substantia nigra (SN). In a mouse model of PD, investigators have administered 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) and found that measures derived using diffusion tensor imaging (DTI) were correlated with the number of dopamine neurons lost following intoxication.
+
+
+METHODS
+Twenty-eight subjects (14 with early stage, untreated PD and 14 age- and gender-matched controls) were studied with a high-resolution DTI protocol at 3 Tesla using an eight-channel phase array coil and parallel imaging to study specific segments of degeneration in the SN. Regions of interest were drawn in the rostral, middle, and caudal SN by two blinded and independent raters.
+
+
+RESULTS
+Fractional anisotropy (FA) was reduced in the SN of subjects with PD compared with controls (p < 0.001). Post hoc analysis identified that reduced FA for patients with PD was greater in the caudal compared with the rostral region of interest (p < 0.00001). A receiver operator characteristic analysis in the caudal SN revealed that sensitivity and specificity were 100% for distinguishing patients with PD from healthy subjects. Findings were consistent across both raters.
+
+
+CONCLUSIONS
+These findings provide evidence that high resolution diffusion tensor imaging in the substantia nigra distinguishes early stage, de novo patients with Parkinson disease (PD) from healthy individuals on a patient by patient basis and has the potential to serve as a noninvasive early biomarker for PD.

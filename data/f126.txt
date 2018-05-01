@@ -1,0 +1,14 @@
+AIM
+The aims in this study were to evaluate the role of brain F-FDG PET imaging in differential diagnosis of parkinsonism and to correlate brain metabolism findings with patients' clinical findings.
+
+
+METHODS
+Brain F-FDG PET images were evaluated both visually and quantitatively using the NeuroQ software in 21 parkinsonism patients in whom final clinical diagnoses were established.
+
+
+RESULTS
+Final clinical diagnoses were idiopathic Parkinson disease in 7, multisystem atrophy (MSA) in 7, progressive supranuclear palsy (PSP) in 4, corticobasal degeneration in 2, and Lewy body disease in 1 patient. Asymmetrical cortical hypometabolism was observed in most of the patients in frontal and parietotemporal regions. Fifteen of 21 patients had basal ganglia involvement, which was bilateral in patients with MSA and more frequently unilateral in patients with idiopathic Parkinson disease and PSP. Four patients with PSP and 1 patient with corticobasal degeneration had thalamic hypometabolism. Cerebellar hypometabolism was observed in 4 patients with MSA. The Unified Parkinson Disease Rating Scale motor and bradykinesia scores were higher in patients with basal ganglia involvement.
+
+
+CONCLUSIONS
+Brain F-FDG PET findings in subcortical nuclei and cerebellum were found to be useful in differential diagnosis of patients with parkinsonism. The extent of cerebral cortical and basal ganglia hypometabolism showed correlation with the presentation and severity of clinical findings.

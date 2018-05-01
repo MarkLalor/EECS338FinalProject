@@ -1,0 +1,18 @@
+BACKGROUND
+Olfactory identification was reported to be better among PD (Parkinson disease) patients with Parkin mutations, but previous studies didn't eliminate the interference of other PD related genes on olfaction, and whether olfaction of Parkin mutations patients was better in Chinese population was still unknown.
+
+
+OBJECTIVE
+To assess olfaction function among PD patients with Parkin mutations in Chinese population.
+
+
+MATERIALS AND METHODS
+A total of 226 PD patients with a positive family history or an early-onset age (<50 years) were enrolled for genetic testing of PD related genes by target sequencing and multiple ligation-dependent probe amplification. The clinical data including olfactory function test were investigated. Linear regression was performed to adjust for the covariates between all groups.
+
+
+RESULTS
+There were 68 patients found having a negative result in PD genetic testing and 43 patients carrying homozygous or compound heterozygous Parkin mutations. Among them, 49 PD panel negative patients and 33 PD-Parkin patients had results of olfactory assessment. PD -Parkin patients performed significantly better on the Sniffin' Sticks tests than panel negative patients (8.0 ± 1.7 vs. 5.7 ± 1.9, p < .001), but still worse compared to healthy controls (9.4 ± 1.5, p = .003). These differences persisted after adjusting for confounders.
+
+
+CONCLUSIONS
+Among Chinese population, PD -Parkin patients had relatively preserved olfaction compared to PD panel negative patients after eliminating the interference of other PD related genes, but were still worse than healthy controls.

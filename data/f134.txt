@@ -1,0 +1,14 @@
+BACKGROUND
+Idiopathic REM sleep behavior disorder is a prodromal stage of Parkinson's disease and dementia with Lewy bodies. Hyposmia, reduced dopamine transporter binding, and expression of the brain metabolic PD-related pattern were each associated with increased risk of conversion to PD. The objective of this study was to study the relationship between the PD-related pattern, dopamine transporter binding, and olfaction in idiopathic REM sleep behavior disorder.
+
+
+METHODS
+In this cross-sectional study, 21 idiopathic REM sleep behavior disorder subjects underwent 18 F-fluorodeoxyglucose PET, dopamine transporter imaging, and olfactory testing. For reference, we included 18 F-fluorodeoxyglucose PET data of 19 controls, 20 PD patients, and 22 patients with dementia with Lewy bodies. PD-related pattern expression z-scores were computed from all PET scans.
+
+
+RESULTS
+PD-related pattern expression was higher in idiopathic REM sleep behavior disorder subjects compared with controls (P = 0.048), but lower compared with PD (P = 0.001) and dementia with Lewy bodies (P < 0.0001). PD-related pattern expression was higher in idiopathic REM sleep behavior disorder subjects with hyposmia and in subjects with an abnormal dopamine transporter scan (P < 0.05, uncorrected).
+
+
+CONCLUSION
+PD-related pattern expression, dopamine transporter binding, and olfaction may provide complementary information for predicting phenoconversion. © 2017 The Authors. Movement Disorders published by Wiley Periodicals, Inc. on behalf of International Parkinson and Movement Disorder Society.

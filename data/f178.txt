@@ -1,0 +1,14 @@
+OBJECTIVES
+We performed a systematic review to assess alterations in measures of diffusion tensor imaging (DTI) in parkinsonian syndromes, exploring the potential role of DTI in diagnosis and as a candidate biomarker.
+
+
+METHODS
+We searched EMBASE and Medline databases for DTI studies comparing parkinsonian syndromes or related dementias with controls or another defined parkinsonian syndrome. Key details for each study regarding participants, imaging methods, and results were extracted. Estimates were pooled, where appropriate, by random-effects meta-analysis.
+
+
+RESULTS
+Of 333 results, we identified 43 studies suitable for inclusion (958 patients, 764 controls). DTI measures detected alterations in all parkinsonian syndromes, with distribution varying differentially with disease type. Nine studies were included in a meta-analysis of the substantia nigra in Parkinson disease. A notable effect size was found for lowered fractional anisotropy in the substantia nigra for patients with Parkinson disease vs controls (-0.639, 95% confidence interval -0.860 to -0.417, p < 0.0001).
+
+
+CONCLUSION
+DTI may be a promising biomarker in parkinsonian syndromes and have a future role in differential diagnosis. Larger cohort studies are required to investigate some encouraging preliminary findings. Given the complexity of the parkinsonian syndromes, it is likely that any potential DTI biomarker would be used in combination with other relevant biomarkers.
