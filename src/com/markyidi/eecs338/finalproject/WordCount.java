@@ -4,14 +4,17 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
-import java.util.regex.Pattern;
+import java.util.regex.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class WordCount {
+    public static Pattern tokenPattern = Pattern.compile("\\b\\w*[A-z,-][A-z,-]+\\w*\\b");
+
     public static void main(String[] args) {
         String dataDirectory = args[0];
         String outputFn = args[1];
@@ -26,11 +29,14 @@ public class WordCount {
     }
 
     public static Collection<Map.Entry<String, Integer>> docWordCount(Path item) {
-        try (Stream<String> s = Files.lines(item)
-                .flatMap(Pattern.compile("\\s+")::splitAsStream)) {
-            return s
-                    .map(x -> new AbstractMap.SimpleEntry<>(x, 1))
-                    .collect(Collectors.toList());
+        List<Map.Entry<String, Integer>> counts = new LinkedList<>();
+        try {
+            String s = new String(Files.readAllBytes(item), Charset.forName("UTF-8"));
+            Matcher m = tokenPattern.matcher(s);
+            while (m.find()) {
+                counts.add(new AbstractMap.SimpleEntry<>(m.toMatchResult().group(), 1));
+            }
+            return counts;
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException("Shoot.");
