@@ -42,9 +42,13 @@ public class WordCount {
     }
 
     public static void writeResults(Map<String, Integer> results, String outputFn) {
+        List<Map.Entry<String, Integer>> sortedList = new ArrayList<>(results.size());
+        sortedList.addAll(results.entrySet());
+        sortedList.sort(Comparator.comparing(entry -> -entry.getValue()));
+
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFn))) {
-            for (Map.Entry<String, Integer> entry : results.entrySet()) {
-                writer.write(String.format("%s: %d", entry.getKey(), entry.getValue()));
+            for (Map.Entry<String, Integer> entry : sortedList) {
+                writer.write(String.format("%s: %d\n", entry.getKey(), entry.getValue()));
             }
         } catch (IOException e) {
             e.printStackTrace();
